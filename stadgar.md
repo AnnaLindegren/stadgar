@@ -55,7 +55,6 @@ Föreningens organ
 
 -   Styrelse
 
--   Revisorer
 
 Årsmöte
 =======
@@ -80,39 +79,35 @@ Vid ordinarie årsmöte ska följande ärenden behandlas:
 
 6.  Godkännande av kallelse
 
-7.  Styrelsens verksamhetsberättelse och ekonomiska berättelse över det
+7.  Styrelsens verksamhetsberättelse eller ekonomiska berättelse över det
     senaste året
 
-8.  Revisorernas berättelse
-
-9.  Fråga om fastställande av balansräkning samt disposition av årets
+8.  Fråga om fastställande av balansräkning samt disposition av årets
     resultat
 
-10. Fråga om ansvarsfrihet för styrelsens ledamöter
+9. Fråga om ansvarsfrihet för styrelsens ledamöter
 
-11. Beslut om antal ledamöter i styrelsen och ev. antal ersättare
+10. Beslut om antal ledamöter i styrelsen och ev. antal ersättare
 
-12. Beslut om mandatperiod
+11. Beslut om mandatperiod
 
-13. Beslut om ev ersättning till styrelse m.fl.
+12. Beslut om ev ersättning till styrelse m.fl.
 
-14. Val av ordförande
+13. Val av ordförande
 
-15. Val av kassör
+14. Val av kassör
 
-16. Val av övriga styrelseledamöter samt ev. ersättare
+15. Val av övriga styrelseledamöter samt ev. ersättare
 
-17. Val av revisorer och ersättare
+16. Val av valberedning
 
-18. Val av valberedning
-
-19. Beslut om eventuella regler och belopp för nästkommande års
+17. Beslut om eventuella regler och belopp för nästkommande års
     medlemsavgift
 
-20. Framställningar och förslag från styrelsen och från medlemmar som
+18. Framställningar och förslag från styrelsen och från medlemmar som
     inkommit till styrelsen senast 10 dagar före årsmötet
 
-21. Vid årsmötet väckta frågor
+19. Vid årsmötet väckta frågor
 
 Extra årsmöte
 =============
@@ -174,15 +169,6 @@ Föreningens räkenskapsår ska vara kalenderår.
 Styrelsen ska senast 14 dagar före ordinarie årsmöte överlämna sina
 redovisningshandlingar till revisorerna.
 
-Revisorer
-=========
-
-Föreningens räkenskaper och styrelsens förvaltning ska granskas av
-minst en revisor. Revisorn utses vid ordinarie årsmöte.
-
-För revisorerna ska utses ersättare. Revisorer och ersättare för dessa
-utses för ett år. Revisionsberättelse ska lämnas till styrelsen senast
-7 dagar före ordinarie årsmötet.
 
 Ändring av föreningens stadgar samt likvidation
 ===============================================
